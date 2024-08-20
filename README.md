@@ -1,6 +1,6 @@
 Fecha: 07/2022
 
-# Trabajo Práctico Final - Entorno de Programación - TUIA
+# Trabajo Práctico Final - Programación I - TUIA
 ## Integrantes: 
 
 Comisión I
